@@ -18,7 +18,7 @@ Visual design of a form for a desktop website. This form simulates the fields to
 <br>
 
 <p align="center">
-  <img alt="registration form project" src="github/formulario-matricula.jpg" width="100%">
+  <img alt="registration form project" src="github/formulario-matricula1.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
